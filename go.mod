@@ -7,3 +7,5 @@ require (
 	github.com/linode/linode-api-docs/v4 v4.174.0 // indirect
 	github.com/linode/linode-docs-theme v0.0.0-20240319173150-b92334abe6d7 // indirect
 )
+
+replace github.com/linode/linode-docs-theme => /Users/mwildman/Linode/linode-docs-theme
